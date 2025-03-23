@@ -1,0 +1,7 @@
+C:\Users\Ngan\source\repos\baitapbuoi3\baitapbuoi3\obj\Debug\baitapbuoi3.csproj.AssemblyReference.cache
+C:\Users\Ngan\source\repos\baitapbuoi3\baitapbuoi3\obj\Debug\baitapbuoi3.csproj.CoreCompileInputs.cache
+C:\Users\Ngan\source\repos\baitapbuoi3\baitapbuoi3\bin\Debug\baitapbuoi3.exe.config
+C:\Users\Ngan\source\repos\baitapbuoi3\baitapbuoi3\bin\Debug\baitapbuoi3.exe
+C:\Users\Ngan\source\repos\baitapbuoi3\baitapbuoi3\bin\Debug\baitapbuoi3.pdb
+C:\Users\Ngan\source\repos\baitapbuoi3\baitapbuoi3\obj\Debug\baitapbuoi3.exe
+C:\Users\Ngan\source\repos\baitapbuoi3\baitapbuoi3\obj\Debug\baitapbuoi3.pdb
